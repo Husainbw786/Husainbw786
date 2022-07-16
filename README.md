@@ -3,6 +3,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-husainbw123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:husainbw123@gmail.com)](mailto:husainbw123@gmail.com)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Husain_Bw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/husainbw786/)](https://www.linkedin.com/in/husainbw786/)
+
 ---
 
  
