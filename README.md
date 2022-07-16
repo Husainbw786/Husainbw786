@@ -20,7 +20,7 @@
 
 ---
  
-[![Husain github activity graph](https://activity-graph.herokuapp.com/graph?username=murtuzz&theme=react-dark)](https://github.com/husainbw786/github-readme-activity-graph)
+[![Husain github activity graph](https://activity-graph.herokuapp.com/graph?username=husainbw786&theme=react-dark)](https://github.com/husainbw786/github-readme-activity-graph)
 
 ---
 
