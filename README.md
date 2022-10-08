@@ -7,6 +7,9 @@
 
 ---
 
+<a href="https://www.leetcode.com/husainhackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="husainhackerrank" height="30" width="40" /></a>
+
+---
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husainbw786&theme=dark&layout=compact&align=right&width=40%)](https://github.com/husainbw786/github-readme-stats)
  
