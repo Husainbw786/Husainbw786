@@ -6,6 +6,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Husain_Bw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/husainbw786/)](https://www.linkedin.com/in/husainbw786/)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=husainbw786&label=Profile%20views&color=0e75b6&style=flat" alt="husainbw786" /> </p>
+
+---
 
 <a href="https://www.leetcode.com/husainhackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="husainhackerrank" height="30" width="40" /></a>
 
