@@ -11,7 +11,6 @@
 ---
 
 <a href="https://www.leetcode.com/husainhackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="husainhackerrank" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/husain_bw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="husain_bw" height="30" width="40" /></a>
 
 
