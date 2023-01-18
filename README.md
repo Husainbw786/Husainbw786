@@ -11,7 +11,7 @@
 ---
 
 <a href="https://www.hackerrank.com/husainhackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="husainhackerrank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/husainhackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="husainhackerrank" height="30" width="40" /></a>
+[<a href="https://www.leetcode.com/husainhackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="husainhackerrank" height="30" width="40" /></a>](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fhusainhackerrank&logo=leetcode&logoColor=yellow)
 [![Problem Link](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/husain_bw)
 
 
