@@ -26,10 +26,6 @@
          
 
 ---
- 
-[![Husain's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=husainbw786)](https://github.com/husainbw876/github-readme-activity-graph)
-
----
 
 <!--
 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
