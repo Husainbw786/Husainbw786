@@ -26,9 +26,6 @@
          
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=husainbw786&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
 <!--
 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Visitor](https://hit.yhype.me/github/profile?user_id=45698122)
