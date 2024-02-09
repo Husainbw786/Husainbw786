@@ -34,12 +34,10 @@
  <hr>
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=husainbw786&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats) 
-
+<!--
 ![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=husainbw786&theme=dark&show_icons=true)      
-         
-
----
+-->
 <!--
 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Visitor](https://hit.yhype.me/github/profile?user_id=45698122)
---!>
+-->
