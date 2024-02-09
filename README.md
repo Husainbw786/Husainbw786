@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align=center width=max>👋 Hi, I am **Husain Baghwala**</h2>
+<h2 align=center width=max>👋 Hi, I am <b>Husain Baghwala</b></h2>
 
 ---
 
