@@ -13,6 +13,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/husain_bw/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/husainhackerrank?hr_r=1)
 [![Problem Link](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/husain_bw)
+<a href="https://leetcode.com/husain_bw/"><img width="48%" src="https://leetcode.card.workers.dev/husain_bw?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 
 
 ---
