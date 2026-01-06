@@ -53,7 +53,7 @@ AI Engineer • Backend Developer • GenAI & LLM Systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=husainbw786&show_icons=true&theme=nightowl&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husainbw786)](https://github.com/husainbw786/github-readme-stats)"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=husainbw786&theme=nightowl"/>
 </p>
 
